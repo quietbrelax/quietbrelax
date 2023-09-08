@@ -13,7 +13,7 @@ Estudante de Engenharia de Sistemas
 ## Linguagens
 
 <p align="center">
-  <a href="https://github.com/quietbrelax/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=quietbrelax&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" /></a>
+  <a href="https://github.com/quietbrelax/github-readme-stats/stats.md"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=quietbrelax&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" /></a>
 </p>
 
 ## 🔭 Currently working with
