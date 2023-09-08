@@ -50,7 +50,7 @@ Email: mariaclarao.ruas@gmail.com
 [![portfolio](https://img.shields.io/badge/my_art_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.behance.net/clararuas)
 
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/maria-clara-ruas-094044206)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-clara-ruas/)
 
 <p align="center">
   <img  width="150%" src="https://github.com/quietbrelax/assets/blob/main/ak47%20_%20tumblr.gif" />
